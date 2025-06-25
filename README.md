@@ -7,11 +7,36 @@
 
 <p align="left"> <a href="https://twitter.com/vmahalla" target="blank"><img src="https://img.shields.io/twitter/follow/vmahalla?logo=twitter&style=for-the-badge" alt="vmahalla" /></a> </p>
 
-- 🌱 I’m currently learning **CS50 COURSE and CS105 COURSE**
+<p>
+I'm a curious and driven learner with a strong interest in Data Science, Artificial Intelligence, and Software Development. I’m the founder of <strong>Lingvia</strong>, a project where I explore how to integrate AI into language learning experiences. My journey into tech began with a desire to understand how things work under the hood and to create solutions that make a real difference.
+</p>
 
-- 🤝 I’m looking for help with **Python, MYSQL**
+<p>
+Over the years, I’ve been developing my skills in <strong>Python</strong>, <strong>web development</strong>, and <strong>machine learning</strong> by building personal projects, experimenting with AI tools, and contributing to open-source whenever I can. I’m passionate about learning by doing and pushing myself through challenges that expand my capabilities.
+</p>
 
-- 📫 How to reach me **venujamahalla1@gmail.com**
+<h2>💡 What I'm Working On</h2>
+<ul>
+  <li>Developing <strong>Lingvia</strong> – an AI-powered tool for improving language learning through intelligent feedback and interaction.</li>
+  <li>Expanding my knowledge in <strong>data science, algorithms, and full-stack development</strong>.</li>
+  <li>Building a portfolio of real-world projects that combine AI and user-centered design.</li>
+</ul>
+
+<h2>🛠 Tech & Tools</h2>
+<ul>
+  <li><strong>Languages:</strong> Python, JavaScript, HTML/CSS</li>
+  <li><strong>Frameworks & Tools:</strong> Flask, React, TailwindCSS, Git/GitHub, SQLite</li>
+  <li><strong>Data Science:</strong> Pandas, NumPy, Matplotlib, Scikit-learn</li>
+  <li><strong>Exploring:</strong> LangChain, OpenAI API, Hugging Face, Next.js</li>
+</ul>
+
+<h2>🚀 Goals</h2>
+<ul>
+  <li>Build impactful AI-powered educational tools.</li>
+  <li>Continue learning advanced concepts in data science and machine learning.</li>
+  <li>Collaborate on innovative projects that challenge me to grow.</li>
+  <li>Maintain balance between personal growth and professional excellence.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
